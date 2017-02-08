@@ -27,7 +27,6 @@ var MIN_SKIP = 3;
 var MAX_MODULES = 57;
 var INTEGER_MATH_SHIFT = 8;
 var CENTER_QUORUM = 2;
-
 qrcode.orderBestPatterns=function(patterns)
 		{
 			
