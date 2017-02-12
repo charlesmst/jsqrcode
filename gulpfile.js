@@ -1,6 +1,6 @@
 var concat = require('gulp-concat');
 var gulp = require("gulp")
-let srcs = [
+var srcs = [
     "./src/grid.js",
     "./src/version.js",
     "./src/detector.js",
